@@ -227,19 +227,17 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {206637124,57426785,185963103},--Sudo users
+    sudo_users = {115740444},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     botnex😕
     
     sudo: 
-    @M_o_t_a_f_e_g_h_i_n
-    @Oo_admin2_marginam_revale_oO
-    @botnexx_admin
+    @aryan_daltons
     
     
-    @botnex_ch
+    @terinux_ch
     
     yon.ir/botnex
 ]],
